@@ -34,7 +34,7 @@ I have extensive experience in:
 
 As a cloud enthusiast, I share my knowledge through blogs on AWS services and hands-on tutorials on platforms like Medium and GitHub, empowering others to navigate cloud technologies with ease.
 
-Medium : https://medium.com/@tojanasg
+Medium : 
 
 <p align="center">
   <a href="[https://www.linkedin.com/in/janarthanan-ravikumar](https://www.linkedin.com/in/gurudas-prabhu/)☁️" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
